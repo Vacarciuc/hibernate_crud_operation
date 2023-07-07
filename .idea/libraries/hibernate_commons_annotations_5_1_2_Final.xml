@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hibernate-commons-annotations-5.1.2.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/librariesHibernet6_0/hibernate-commons-annotations-5.1.2.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/librariesHibernet6_0/javax.persistence-api-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
